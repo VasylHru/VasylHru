@@ -2,10 +2,9 @@
 
  Junior Fullstack Developer  (HTML5, CSS3, JS, React)
 
-Fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB.  
-Experienced in building single-page applications (SPA), integrating REST APIs, and creating responsive and adaptive user interfaces.  
-I have experience working in an Agile/Scrum environment, follow best practices in coding, version control (Git), and performance optimization.  
-Strong problem-solving skills and a proactive approach to developing scalable web solutions.
+I am a beginner developer who is eager to learn and continuously improve my skills. I am highly motivated to gain hands-on experience and work on real projects that help me grow as a professional.
+Currently, I am focusing on developing my skills in JavaScript, Node.js, React, and CSS. I enjoy learning new technologies, solving problems, and improving my code every day.
+My goal is to gain enough experience to bring my own ideas to life by creating websites and applications. I am open to new challenges, and opportunities that allow me to grow and become a stronger developer.
 
 ---
 
@@ -36,7 +35,7 @@ Description: An online store of premium watches catering to connoisseurs of luxu
 
 ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
 
